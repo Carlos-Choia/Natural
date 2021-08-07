@@ -1,0 +1,18 @@
+get all data from streaming sources:new-data-repository 
+                    financial:commodites,
+                    financial:stocks,
+                    financial:cryptos,
+                    weather:global-heat,
+                    sun:variations,
+                    moon:fases,
+                    health:expenses,
+                    real-state:value.
+                    
+organize:new-data-repository
+                    by date,
+                    by time,
+                    by attractive,
+                    by value.
+                    
+                    
+                    
