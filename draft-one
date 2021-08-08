@@ -1,4 +1,4 @@
-get all data from streaming sources:new-data-repository 
+get all data from streaming-sources in new-data-repository
                     financial:commodites,
                     financial:stocks,
                     financial:cryptos,
@@ -8,7 +8,7 @@ get all data from streaming sources:new-data-repository
                     health:expenses,
                     real-state:value.
                     
-organize:new-data-repository
+organize new-data-repository
                     by date,
                     by time,
                     by attractive,
