@@ -1,12 +1,13 @@
 #Neurasoft
 #Natural
 
-NATURAL is human-level programing language; 
+NEURASOFT is human-level programing language; 
 Mind logic;
 Like Human Thinking;
 Soft Neuralink;
 NeuraSoft;
-A merge between computer language and human language;
+Soft link between human and AI.
+Merge computer (-+) human language;
           I need to:
           What is:
           If this is true:
@@ -16,4 +17,5 @@ A merge between computer language and human language;
           Organise:
           Calculate:
           
-Ultimately the goal for all communication;
+
+
