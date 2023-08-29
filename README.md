@@ -14,3 +14,4 @@ A merge between computer language and human language;
           Calculate:
           
 Ultimately the goal for all communication;
+The very universal language, since the AI machines will talk with humans like us;
