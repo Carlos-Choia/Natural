@@ -3,6 +3,7 @@
 NATURAL is human-level programing language; 
 Mind logic;
 Like Human Thinking;
+We need merge imperative with declarative. Must converge.
 A merge between computer language and human language;
           I need to:
           What is:
