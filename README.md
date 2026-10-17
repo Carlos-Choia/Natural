@@ -4,7 +4,7 @@
 
 NATURAL is not another programming language.
 
-NATURAL is a Problem Definition Language.
+NATURAL does not generate code. NATURAL proposes solutions.
 
 The purpose of NATURAL is to bridge the gap between the Human Solution Architect and the Machine Solution.
 
