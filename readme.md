@@ -1,6 +1,6 @@
 # NATURAL
 
-## What is NATURAL?
+## What is NATURAL ?
 
 NATURAL is not another programming language.
 
