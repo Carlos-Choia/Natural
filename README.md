@@ -4,7 +4,7 @@
 
 NATURAL is not another programming language.
 
-NATURAL does not generate code. NATURAL proposes solutions.
+NATURAL is a decoupling of document intent and prototype in a higher abstraction layer from any LLM coder.
 
 The purpose of NATURAL is to bridge the gap between the Human Solution Architect and the Machine Solution.
 
