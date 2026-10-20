@@ -1,8 +1,10 @@
 # NATURAL-FORMS 📐
 
-> **Declarative Spec & Schema Engine for Human Intent**
+> **Declarative Spec / Schema / Human Intent written in Human language but organised and atomic**
 > *The architectural bridge that transforms abstract business logic into deterministic software contracts.*
-
+> The AI is the interpreter and compiler
+> NATURAL-FORMS: The Source Code for LLMs
+> .nform .nforms
 ## 🎯 The Concept
 
 If **NATURAL** represents the ecosystem and manifesto for aligning human intent with machine execution, **NATURAL-FORMS** serves as its **declarative modeling and specification engine**.
@@ -21,8 +23,28 @@ A **NATURAL-FORM** is a structured contract containing four fundamental layers:
 ├────────────────────────────────────────────────────────┤
 │ 3. BUSINESS RULES & CONSTRAINTS (Rules & Boundaries)   │
 ├────────────────────────────────────────────────────────┤
-│ 4. TARGET RUNTIME (Go, Postgres, Python, Docker, etc.)  │
+│ 4. TARGET RUNTIME (Go, Postgres, Python, Docker, etc.) │
 └────────────────────────────────────────────────────────┘
+or expanded :
+
+## intent
+  ------
+## context
+  ------
+## data
+  ------
+## constraints
+  ------
+## guard-rails
+  ------
+## compliance
+  ------
+## assumptions
+  ------
+## expected-outcome
+  ------
+## validation
+  ------
 ```
 
 ### Theoretical Example (`sensor_monitor.nform`):
