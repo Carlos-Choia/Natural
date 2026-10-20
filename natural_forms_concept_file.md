@@ -27,6 +27,10 @@ A **NATURAL-FORM** is a structured contract containing four fundamental layers:
 └────────────────────────────────────────────────────────┘
 or expanded :
 
+## Author
+  ------
+## Project / Version
+  ------
 ## intent
   ------
 ## context
