@@ -2,7 +2,7 @@
 
 ## What is NATURAL?
 
-NATURAL is a project to create an organized, secure way to manifest intent in an atomic document NATURAL-FORM .nform to any AI create a solution in any language and infrastructure.
+NATURAL is a project to create an organized, secure and atomic way to express human intent through NATURAL-FORMS (.nform), allowing any AI to generate complete solutions in any language or infrastructure.
 
 NATURAL is a decoupling of document intent and prototype in a higher abstraction layer from any LLM coder.
 
