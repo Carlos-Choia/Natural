@@ -2,7 +2,7 @@
 
 ## What is NATURAL?
 
-NATURAL is not another programming language.
+NATURAL is a project to create a organized, secure way to manifest intent in an atomic document NATURAL-FORM .nform to any AI create a solution in any language and infrastructure.
 
 NATURAL is a decoupling of document intent and prototype in a higher abstraction layer from any LLM coder.
 
