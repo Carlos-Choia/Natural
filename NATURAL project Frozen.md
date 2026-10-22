@@ -1,11 +1,11 @@
 NATURAL
 
-PROJECT STATUS: FROZEN
+PROJECT STATUS: FROZEN Oct-2026
 
 Reason:
+The agents stage of development.
 
-NATURAL served as an exploration of atomic,
-human-readable intent specifications (.nform)
+NATURAL served as an exploration of atomic, human-readable intent specifications (.nform)
 for AI-based solution generation.
 
 The ideas remain available for future evolution.
